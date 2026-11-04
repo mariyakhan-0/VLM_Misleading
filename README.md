@@ -9,4 +9,4 @@ Code for how we prompted and called different VLM's can be found in ``api_call_q
 The 100 publicly available images we used can be found in ``Images`` folder.
 
 ### Surveys
-Examples surveys and additional information can be found in ``Surveys`` folder.
+Four examples of surveys  we sent participants can be found in the ``Surveys`` folder.
